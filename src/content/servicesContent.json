@@ -1,0 +1,29 @@
+{
+  "mainTitle": "Услуги",
+  "price": {
+    "expirienceTitle": "ОПЫТ",
+    "expirienceDesc": "У нас работают только высококвалифицированные специалисты",
+    "repairWindowTitle": "Ремонт окон",
+    "repairWindowtDesc": "от 1500р",
+    "adjustmentTitle": "Регулировка окон",
+    "adjustmentDesc": "от 450р",
+    "changeAccessoriesTitle": "Замена фурнитуры",
+    "changeAccessoriesDesc": "от 350р",
+    "sealingTitle": "Герметизация окон",
+    "sealingDesc": "от 150р",
+    "glassUnitTitle": "Замена стекол",
+    "glassUnitDesc": "от 4500 руб.",
+    "TamperProofTitle": "Противовзломная система",
+    "TamperProofDesc": "от 600 руб.",
+    "doorknobTitle": "Ручка с замком",
+    "doorknobDesc": "от 600 руб.",
+    "changeSealTitle": "Замена ",
+    "changeSealTitle2": "уплотнителя",
+    "changeSealDesc": "от 300 руб.",
+    "mosquitoNetsTitle": "Москитные сетки",
+    "mosquitoNetsDesc": "от 3500 руб.",
+    "blindTitle": "Жалюзи",
+    "blindDesc": "от 600 руб.",
+    "saleTitle": "ПРЕДОСТАВЛЯЕМ ГАРАНТИЮ НА ВСЕ ВИДЫ РАБОТ"
+  }
+}

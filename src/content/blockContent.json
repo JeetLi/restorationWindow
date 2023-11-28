@@ -1,0 +1,30 @@
+{
+  "ButtonName": "Заказать выезд",
+  "title": {
+    "firstStepTitle": "Профессиональный ",
+    "SpanStepTitle": " ремонт окон",
+    "SecondStepTitle": " в день обращения г.Москва и МО"
+  },
+  "truck": {
+    "firstStepText": "Выезд специалиста ",
+    "spanStepText": " бесплатно ",
+    "secondStepTitle": " в день обращения"
+  },
+  "security": {
+    "firstStepText": "Имеются все ",
+    "spanStepText": " сертификаты соответствия ",
+    "secondStepTitle": " на продукцию для ремонта окон"
+  },
+  "like": {
+    "firstStepText": "Выполнили более ",
+    "spanStepText": " 700 заказов ",
+    "secondStepText": " за ",
+    "secondSpanText": "8 лет",
+    "ThrirdStepText": " работы "
+  },
+  "application": {
+    "title": "Оставьте заявку и узнайте стоимость ремонта",
+    "button": "Заказать выезд",
+    "description": "Нажимая кнопку “Заказать выезд”, я даю согласие на обработку персональных данных"
+  }
+}

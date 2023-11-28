@@ -1,0 +1,80 @@
+import styled from "styled-components";
+
+export const PopupDoneContainer = styled.div`
+  color: #545454;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 100;
+  display: none;
+  overflow: hidden;
+  background: rgba(0, 0, 0, 0.7);
+`;
+export const PopupDoneDialog = styled.div`
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+`;
+export const PopupDoneContent = styled.div`
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-height: 70%;
+  width: 530px;
+  max-width: 90%;
+  background: #fff;
+  border-radius: 10px;
+  transition: all 0.3s;
+  text-align: center;
+  padding-bottom: 1%;
+`;
+export const PopupDoneTitle = styled.p`
+  position: relative;
+  max-width: 100%;
+  margin: 0;
+  color: inherit;
+  font-size: 1.875em;
+  font-weight: 600;
+  text-align: center;
+  text-transform: none;
+  word-wrap: break-word;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+`;
+export const PopupDoneSubTitle = styled.p`
+  z-index: 1;
+  justify-content: center;
+  margin: 1em 1.6em 1.4em;
+  padding: 0;
+  overflow: auto;
+  color: inherit;
+  font-size: 1.125em;
+  font-weight: normal;
+  line-height: normal;
+  text-align: center;
+  word-wrap: break-word;
+  word-break: break-word;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+`;
+export const PopupDoneButton = styled.button`
+  border: 0;
+  border-radius: 0.25em;
+  background: initial;
+  background-color: #7066e0;
+  color: #fff;
+  font-size: 1em;
+  margin: 0.3125em;
+  padding: 0.625em 1.1em;
+  transition: box-shadow 0.1s;
+  box-shadow: 0 0 0 3px rgba(0, 0, 0, 0);
+  font-weight: 500;
+  list-style: none;
+`;
